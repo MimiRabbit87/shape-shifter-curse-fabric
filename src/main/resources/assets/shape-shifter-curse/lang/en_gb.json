@@ -136,7 +136,7 @@
     "item.shape-shifter-curse.moondust_crystal_shard.tooltip": "Refined moondust crystals, used to craft accessories and tools that enhance form abilities",
     "item.shape-shifter-curse.ectoplasm_rag": "Ectoplasm Rag",
     "item.shape-shifter-curse.bottled_snowfall": "Bottled Snowfall",
-    "item.shape-shifter-curse.bottled_snowfall.tooltip": "[Snow Fox Form Tool] Requires powerful ice magic. At the cost of some hunger, condense and fire snowballs",
+    "item.shape-shifter-curse.bottled_snowfall.tooltip": "[Snow Fox Form Tool] Requires powerful ice magic. At the cost of some hunger, summon snowballs and launch them",
     "item.shape-shifter-curse.diamond_mining_claw": "Diamond Mining Claw",
     "item.shape-shifter-curse.diamond_mining_claw.tooltip": "[Bat Form Tool] Requires strong foreclaws. Mining efficiency and damage +, you can use wall clinging power when held",
     "item.shape-shifter-curse.fountain_belt": "Fountain Belt",
@@ -432,4 +432,5 @@
     "text.autoconfig.shape-shifter-curse-custom.option.enable_form_random_sound": "Enable Form Random Sound",
     "text.autoconfig.shape-shifter-curse-custom.option.auto_sync_config": "Auto Sync Config"
 }
+
 
